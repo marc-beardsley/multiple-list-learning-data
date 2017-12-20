@@ -1,0 +1,162 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;\f2\fnil\fcharset0 Monaco;
+}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red255\green255\blue255;\red242\green242\blue242;
+}
+{\*\expandedcolortbl;;\cssrgb\c20000\c20000\c20000;\cssrgb\c100000\c100000\c100000;\cssrgb\c96078\c96078\c96078;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl750\sa200\partightenfactor0
+
+\f0\b\fs60 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 ODC Attribution License (ODC-By)\
+\pard\pardeftab720\sl600\sa140\partightenfactor0
+
+\fs48 \cf2 Preamble\
+\pard\pardeftab720\sl320\sa200\partightenfactor0
+
+\f1\b0\fs28 \cf2 The Open Data Commons Attribution License is a license agreement\cb1 \uc0\u8232 \cb3 intended to allow users to freely share, modify, and use this Database\cb1 \uc0\u8232 \cb3 subject only to the attribution requirements set out in Section 4.\
+Databases can contain a wide variety of types of content (images,\cb1 \uc0\u8232 \cb3 audiovisual material, and sounds all in the same database, for example),\cb1 \uc0\u8232 \cb3 and so this license only governs the rights over the Database, and not\cb1 \uc0\u8232 \cb3 the contents of the Database individually. Licensors may therefore wish\cb1 \uc0\u8232 \cb3 to use this license together with another license for the contents.\
+Sometimes the contents of a database, or the database itself, can be\cb1 \uc0\u8232 \cb3 covered by other rights not addressed here (such as private contracts,\cb1 \uc0\u8232 \cb3 trademark over the name, or privacy rights / data protection rights\cb1 \uc0\u8232 \cb3 over information in the contents), and so you are advised that you may\cb1 \uc0\u8232 \cb3 have to consult other documents or clear other rights before doing\cb1 \uc0\u8232 \cb3 activities not covered by this License.\
+\pard\pardeftab720\sl320\sa400\partightenfactor0
+\cf2 \
+\pard\pardeftab720\sl320\sa200\partightenfactor0
+\cf2 The Licensor (as defined below)\
+and\
+You (as defined below)\
+agree as follows:\
+\pard\pardeftab720\sl600\sa140\partightenfactor0
+
+\f0\b\fs48 \cf2 1.0 Definitions of Capitalised Words\
+\pard\pardeftab720\sl320\sa200\partightenfactor0
+
+\f1\b0\fs28 \cf2 \'93Collective Database\'94 \'96 Means this Database in unmodified form as part\cb1 \uc0\u8232 \cb3 of a collection of independent databases in themselves that together are\cb1 \uc0\u8232 \cb3 assembled into a collective whole. A work that constitutes a Collective\cb1 \uc0\u8232 \cb3 Database will not be considered a Derivative Database.\
+\'93Convey\'94 \'96 As a verb, means Using the Database, a Derivative Database,\cb1 \uc0\u8232 \cb3 or the Database as part of a Collective Database in any way that enables\cb1 \uc0\u8232 \cb3 a Person to make or receive copies of the Database or a Derivative\cb1 \uc0\u8232 \cb3 Database. Conveying does not include interaction with a user through a\cb1 \uc0\u8232 \cb3 computer network, or creating and Using a Produced Work, where no\cb1 \uc0\u8232 \cb3 transfer of a copy of the Database or a Derivative Database occurs.\
+\'93Contents\'94 \'96 The contents of this Database, which includes the\cb1 \uc0\u8232 \cb3 information, independent works, or other material collected into the\cb1 \uc0\u8232 \cb3 Database. For example, the contents of the Database could be factual\cb1 \uc0\u8232 \cb3 data or works such as images, audiovisual material, text, or sounds.\
+\'93Database\'94 \'96 A collection of material (the Contents) arranged in a\cb1 \uc0\u8232 \cb3 systematic or methodical way and individually accessible by electronic\cb1 \uc0\u8232 \cb3 or other means offered under the terms of this License.\
+\'93Database Directive\'94 \'96 Means Directive 96/9/EC of the European\cb1 \uc0\u8232 \cb3 Parliament and of the Council of 11 March 1996 on the legal protection\cb1 \uc0\u8232 \cb3 of databases, as amended or succeeded.\
+\'93Database Right\'94 \'96 Means rights resulting from the Chapter III (\'93sui\cb1 \uc0\u8232 \cb3 generis\'94) rights in the Database Directive (as amended and as transposed\cb1 \uc0\u8232 \cb3 by member states), which includes the Extraction and Re-utilisation of\cb1 \uc0\u8232 \cb3 the whole or a Substantial part of the Contents, as well as any similar\cb1 \uc0\u8232 \cb3 rights available in the relevant jurisdiction under Section 10.4.\
+\'93Derivative Database\'94 \'96 Means a database based upon the Database, and\cb1 \uc0\u8232 \cb3 includes any translation, adaptation, arrangement, modification, or any\cb1 \uc0\u8232 \cb3 other alteration of the Database or of a Substantial part of the\cb1 \uc0\u8232 \cb3 Contents. This includes, but is not limited to, Extracting or\cb1 \uc0\u8232 \cb3 Re-utilising the whole or a Substantial part of the Contents in a new\cb1 \uc0\u8232 \cb3 Database.\
+\'93Extraction\'94 \'96 Means the permanent or temporary transfer of all or a\cb1 \uc0\u8232 \cb3 Substantial part of the Contents to another medium by any means or in\cb1 \uc0\u8232 \cb3 any form.\
+\'93License\'94 \'96 Means this license agreement and is both a license of rights\cb1 \uc0\u8232 \cb3 such as copyright and Database Rights and an agreement in contract.\
+\'93Licensor\'94 \'96 Means the Person that offers the Database under the terms\cb1 \uc0\u8232 \cb3 of this License.\
+\'93Person\'94 \'96 Means a natural or legal person or a body of persons\cb1 \uc0\u8232 \cb3 corporate or incorporate.\
+\'93Produced Work\'94 \'96 a work (such as an image, audiovisual material, text,\cb1 \uc0\u8232 \cb3 or sounds) resulting from using the whole or a Substantial part of the\cb1 \uc0\u8232 \cb3 Contents (via a search or other query) from this Database, a Derivative\cb1 \uc0\u8232 \cb3 Database, or this Database as part of a Collective Database.\
+\'93Publicly\'94 \'96 means to Persons other than You or under Your control by\cb1 \uc0\u8232 \cb3 either more than 50% ownership or by the power to direct their\cb1 \uc0\u8232 \cb3 activities (such as contracting with an independent consultant).\
+\'93Re-utilisation\'94 \'96 means any form of making available to the public all\cb1 \uc0\u8232 \cb3 or a Substantial part of the Contents by the distribution of copies, by\cb1 \uc0\u8232 \cb3 renting, by online or other forms of transmission.\
+\'93Substantial\'94 \'96 Means substantial in terms of quantity or quality or a\cb1 \uc0\u8232 \cb3 combination of both. The repeated and systematic Extraction or\cb1 \uc0\u8232 \cb3 Re-utilisation of insubstantial parts of the Contents may amount to the\cb1 \uc0\u8232 \cb3 Extraction or Re-utilisation of a Substantial part of the Contents.\
+\'93Use\'94 \'96 As a verb, means doing any act that is restricted by copyright\cb1 \uc0\u8232 \cb3 or Database Rights whether in the original medium or any other; and\cb1 \uc0\u8232 \cb3 includes without limitation distributing, copying, publicly performing,\cb1 \uc0\u8232 \cb3 publicly displaying, and preparing derivative works of the Database, as\cb1 \uc0\u8232 \cb3 well as modifying the Database as may be technically necessary to use it\cb1 \uc0\u8232 \cb3 in a different mode or format.\
+\'93You\'94 \'96 Means a Person exercising rights under this License who has not\cb1 \uc0\u8232 \cb3 previously violated the terms of this License with respect to the\cb1 \uc0\u8232 \cb3 Database, or who has received express permission from the Licensor to\cb1 \uc0\u8232 \cb3 exercise rights under this License despite a previous violation.\
+Words in the singular include the plural and vice versa.\
+\pard\pardeftab720\sl600\sa140\partightenfactor0
+
+\f0\b\fs48 \cf2 2.0 What this License covers\
+\pard\pardeftab720\sl320\sa200\partightenfactor0
+
+\f1\b0\fs28 \cf2 2.1. Legal effect of this document. This License is:\
+a. A license of applicable copyright and neighbouring rights;\
+b. A license of the Database Right; and\
+c. An agreement in contract between You and the Licensor.\
+2.2 Legal rights covered. This License covers the legal rights in the\cb1 \uc0\u8232 \cb3 Database, including:\
+a. Copyright. Any copyright or neighbouring rights in the Database.\cb1 \uc0\u8232 \cb3 The copyright licensed includes any individual elements of the\cb1 \uc0\u8232 \cb3 Database, but does not cover the copyright over the Contents\cb1 \uc0\u8232 \cb3 independent of this Database. See Section 2.4 for details. Copyright\cb1 \uc0\u8232 \cb3 law varies between jurisdictions, but is likely to cover: the Database\cb1 \uc0\u8232 \cb3 model or schema, which is the structure, arrangement, and organisation\cb1 \uc0\u8232 \cb3 of the Database, and can also include the Database tables and table\cb1 \uc0\u8232 \cb3 indexes; the data entry and output sheets; and the Field names of\cb1 \uc0\u8232 \cb3 Contents stored in the Database;\
+b. Database Rights. Database Rights only extend to the Extraction and\cb1 \uc0\u8232 \cb3 Re-utilisation of the whole or a Substantial part of the Contents.\cb1 \uc0\u8232 \cb3 Database Rights can apply even when there is no copyright over the\cb1 \uc0\u8232 \cb3 Database. Database Rights can also apply when the Contents are removed\cb1 \uc0\u8232 \cb3 from the Database and are selected and arranged in a way that would\cb1 \uc0\u8232 \cb3 not infringe any applicable copyright; and\
+c. Contract. This is an agreement between You and the Licensor for\cb1 \uc0\u8232 \cb3 access to the Database. In return you agree to certain conditions of\cb1 \uc0\u8232 \cb3 use on this access as outlined in this License.\
+2.3 Rights not covered.\
+a. This License does not apply to computer programs used in the making\cb1 \uc0\u8232 \cb3 or operation of the Database;\
+b. This License does not cover any patents over the Contents or the\cb1 \uc0\u8232 \cb3 Database; and\
+c. This License does not cover any trademarks associated with the\cb1 \uc0\u8232 \cb3 Database.\
+2.4 Relationship to Contents in the Database. The individual items of\cb1 \uc0\u8232 \cb3 the Contents contained in this Database may be covered by other rights,\cb1 \uc0\u8232 \cb3 including copyright, patent, data protection, privacy, or personality\cb1 \uc0\u8232 \cb3 rights, and this License does not cover any rights (other than Database\cb1 \uc0\u8232 \cb3 Rights or in contract) in individual Contents contained in the Database.\cb1 \uc0\u8232 \cb3 For example, if used on a Database of images (the Contents), this\cb1 \uc0\u8232 \cb3 License would not apply to copyright over individual images, which could\cb1 \uc0\u8232 \cb3 have their own separate licenses, or one single license covering all of\cb1 \uc0\u8232 \cb3 the rights over the images.\
+\pard\pardeftab720\sl600\sa140\partightenfactor0
+
+\f0\b\fs48 \cf2 3.0 Rights granted\
+\pard\pardeftab720\sl320\sa200\partightenfactor0
+
+\f1\b0\fs28 \cf2 3.1 Subject to the terms and conditions of this License, the Licensor\cb1 \uc0\u8232 \cb3 grants to You a worldwide, royalty-free, non-exclusive, terminable (but\cb1 \uc0\u8232 \cb3 only under Section 9) license to Use the Database for the duration of\cb1 \uc0\u8232 \cb3 any applicable copyright and Database Rights. These rights explicitly\cb1 \uc0\u8232 \cb3 include commercial use, and do not exclude any field of endeavour. To\cb1 \uc0\u8232 \cb3 the extent possible in the relevant jurisdiction, these rights may be\cb1 \uc0\u8232 \cb3 exercised in all media and formats whether now known or created in the\cb1 \uc0\u8232 \cb3 future.\
+The rights granted cover, for example:\
+a. Extraction and Re-utilisation of the whole or a Substantial part of\cb1 \uc0\u8232 \cb3 the Contents;\
+b. Creation of Derivative Databases;\
+c. Creation of Collective Databases;\
+d. Creation of temporary or permanent reproductions by any means and\cb1 \uc0\u8232 \cb3 in any form, in whole or in part, including of any Derivative\cb1 \uc0\u8232 \cb3 Databases or as a part of Collective Databases; and\
+e. Distribution, communication, display, lending, making available, or\cb1 \uc0\u8232 \cb3 performance to the public by any means and in any form, in whole or in\cb1 \uc0\u8232 \cb3 part, including of any Derivative Database or as a part of Collective\cb1 \uc0\u8232 \cb3 Databases.\
+3.2 Compulsory license schemes. For the avoidance of doubt:\
+a. Non-waivable compulsory license schemes. In those jurisdictions in\cb1 \uc0\u8232 \cb3 which the right to collect royalties through any statutory or\cb1 \uc0\u8232 \cb3 compulsory licensing scheme cannot be waived, the Licensor reserves\cb1 \uc0\u8232 \cb3 the exclusive right to collect such royalties for any exercise by You\cb1 \uc0\u8232 \cb3 of the rights granted under this License;\
+b. Waivable compulsory license schemes. In those jurisdictions in\cb1 \uc0\u8232 \cb3 which the right to collect royalties through any statutory or\cb1 \uc0\u8232 \cb3 compulsory licensing scheme can be waived, the Licensor waives the\cb1 \uc0\u8232 \cb3 exclusive right to collect such royalties for any exercise by You of\cb1 \uc0\u8232 \cb3 the rights granted under this License; and,\
+c. Voluntary license schemes. The Licensor waives the right to collect\cb1 \uc0\u8232 \cb3 royalties, whether individually or, in the event that the Licensor is\cb1 \uc0\u8232 \cb3 a member of a collecting society that administers voluntary licensing\cb1 \uc0\u8232 \cb3 schemes, via that society, from any exercise by You of the rights\cb1 \uc0\u8232 \cb3 granted under this License.\
+3.3 The right to release the Database under different terms, or to stop\cb1 \uc0\u8232 \cb3 distributing or making available the Database, is reserved. Note that\cb1 \uc0\u8232 \cb3 this Database may be multiple-licensed, and so You may have the choice\cb1 \uc0\u8232 \cb3 of using alternative licenses for this Database. Subject to Section\cb1 \uc0\u8232 \cb3 10.4, all other rights not expressly granted by Licensor are reserved.\
+\pard\pardeftab720\sl600\sa140\partightenfactor0
+
+\f0\b\fs48 \cf2 4.0 Conditions of Use\
+\pard\pardeftab720\sl320\sa200\partightenfactor0
+
+\f1\b0\fs28 \cf2 4.1 The rights granted in Section 3 above are expressly made subject to\cb1 \uc0\u8232 \cb3 Your complying with the following conditions of use. These are important\cb1 \uc0\u8232 \cb3 conditions of this License, and if You fail to follow them, You will be\cb1 \uc0\u8232 \cb3 in material breach of its terms.\
+4.2 Notices. If You Publicly Convey this Database, any Derivative\cb1 \uc0\u8232 \cb3 Database, or the Database as part of a Collective Database, then You\cb1 \uc0\u8232 \cb3 must:\
+a. Do so only under the terms of this License;\
+b. Include a copy of this License or its Uniform Resource Identifier (URI)\cb1 \uc0\u8232 \cb3 with the Database or Derivative Database, including both in the\cb1 \uc0\u8232 \cb3 Database or Derivative Database and in any relevant documentation;\
+c. Keep intact any copyright or Database Right notices and notices\cb1 \uc0\u8232 \cb3 that refer to this License; and\
+d. If it is not possible to put the required notices in a particular\cb1 \uc0\u8232 \cb3 file due to its structure, then You must include the notices in a\cb1 \uc0\u8232 \cb3 location (such as a relevant directory) where users would be likely to\cb1 \uc0\u8232 \cb3 look for it.\
+4.3 Notice for using output (Contents). Creating and Using a Produced\cb1 \uc0\u8232 \cb3 Work does not require the notice in Section 4.2. However, if you\cb1 \uc0\u8232 \cb3 Publicly Use a Produced Work, You must include a notice associated with\cb1 \uc0\u8232 \cb3 the Produced Work reasonably calculated to make any Person that uses,\cb1 \uc0\u8232 \cb3 views, accesses, interacts with, or is otherwise exposed to the Produced\cb1 \uc0\u8232 \cb3 Work aware that Content was obtained from the Database, Derivative\cb1 \uc0\u8232 \cb3 Database, or the Database as part of a Collective Database, and that it\cb1 \uc0\u8232 \cb3 is available under this License.\
+a. Example notice. The following text will satisfy notice under\cb1 \uc0\u8232 \cb3 Section 4.3:\
+\pard\pardeftab720\sl400\partightenfactor0
+
+\f2\fs24 \cf2 \cb4     Contains information from DATABASE NAME which is made available\
+    under the ODC Attribution License.\
+\pard\pardeftab720\sl320\sa200\partightenfactor0
+
+\f1\fs28 \cf2 \cb3 DATABASE NAME should be replaced with the name of the Database and a\cb1 \uc0\u8232 \cb3 hyperlink to the location of the Database. \'93ODC Attribution License\'94\cb1 \uc0\u8232 \cb3 should contain a hyperlink to the URI of the text of this License. If\cb1 \uc0\u8232 \cb3 hyperlinks are not possible, You should include the plain text of the\cb1 \uc0\u8232 \cb3 required URI\'92s with the above notice.\
+4.4 Licensing of others. You may not sublicense the Database. Each time\cb1 \uc0\u8232 \cb3 You communicate the Database, the whole or Substantial part of the\cb1 \uc0\u8232 \cb3 Contents, or any Derivative Database to anyone else in any way, the\cb1 \uc0\u8232 \cb3 Licensor offers to the recipient a license to the Database on the same\cb1 \uc0\u8232 \cb3 terms and conditions as this License. You are not responsible for\cb1 \uc0\u8232 \cb3 enforcing compliance by third parties with this License, but You may\cb1 \uc0\u8232 \cb3 enforce any rights that You have over a Derivative Database. You are\cb1 \uc0\u8232 \cb3 solely responsible for any modifications of a Derivative Database made\cb1 \uc0\u8232 \cb3 by You or another Person at Your direction. You may not impose any\cb1 \uc0\u8232 \cb3 further restrictions on the exercise of the rights granted or affirmed\cb1 \uc0\u8232 \cb3 under this License.\
+\pard\pardeftab720\sl600\sa140\partightenfactor0
+
+\f0\b\fs48 \cf2 5.0 Moral rights\
+\pard\pardeftab720\sl320\sa200\partightenfactor0
+
+\f1\b0\fs28 \cf2 5.1 Moral rights. This section covers moral rights, including any rights\cb1 \uc0\u8232 \cb3 to be identified as the author of the Database or to object to treatment\cb1 \uc0\u8232 \cb3 that would otherwise prejudice the author\'92s honour and reputation, or\cb1 \uc0\u8232 \cb3 any other derogatory treatment:\
+a. For jurisdictions allowing waiver of moral rights, Licensor waives\cb1 \uc0\u8232 \cb3 all moral rights that Licensor may have in the Database to the fullest\cb1 \uc0\u8232 \cb3 extent possible by the law of the relevant jurisdiction under Section\cb1 \uc0\u8232 \cb3 10.4;\
+b. If waiver of moral rights under Section 5.1 a in the relevant\cb1 \uc0\u8232 \cb3 jurisdiction is not possible, Licensor agrees not to assert any moral\cb1 \uc0\u8232 \cb3 rights over the Database and waives all claims in moral rights to the\cb1 \uc0\u8232 \cb3 fullest extent possible by the law of the relevant jurisdiction under\cb1 \uc0\u8232 \cb3 Section 10.4; and\
+c. For jurisdictions not allowing waiver or an agreement not to assert\cb1 \uc0\u8232 \cb3 moral rights under Section 5.1 a and b, the author may retain their\cb1 \uc0\u8232 \cb3 moral rights over certain aspects of the Database.\
+Please note that some jurisdictions do not allow for the waiver of moral\cb1 \uc0\u8232 \cb3 rights, and so moral rights may still subsist over the Database in some\cb1 \uc0\u8232 \cb3 jurisdictions.\
+\pard\pardeftab720\sl600\sa140\partightenfactor0
+
+\f0\b\fs48 \cf2 6.0 Fair dealing, Database exceptions, and other rights not affected\
+\pard\pardeftab720\sl320\sa200\partightenfactor0
+
+\f1\b0\fs28 \cf2 6.1 This License does not affect any rights that You or anyone else may\cb1 \uc0\u8232 \cb3 independently have under any applicable law to make any use of this\cb1 \uc0\u8232 \cb3 Database, including without limitation:\
+a. Exceptions to the Database Right including: Extraction of Contents\cb1 \uc0\u8232 \cb3 from non-electronic Databases for private purposes, Extraction for\cb1 \uc0\u8232 \cb3 purposes of illustration for teaching or scientific research, and\cb1 \uc0\u8232 \cb3 Extraction or Re-utilisation for public security or an administrative\cb1 \uc0\u8232 \cb3 or judicial procedure.\
+b. Fair dealing, fair use, or any other legally recognised limitation\cb1 \uc0\u8232 \cb3 or exception to infringement of copyright or other applicable laws.\
+6.2 This License does not affect any rights of lawful users to Extract\cb1 \uc0\u8232 \cb3 and Re-utilise insubstantial parts of the Contents, evaluated\cb1 \uc0\u8232 \cb3 quantitatively or qualitatively, for any purposes whatsoever, including\cb1 \uc0\u8232 \cb3 creating a Derivative Database (subject to other rights over the\cb1 \uc0\u8232 \cb3 Contents, see Section 2.4). The repeated and systematic Extraction or\cb1 \uc0\u8232 \cb3 Re-utilisation of insubstantial parts of the Contents may however amount\cb1 \uc0\u8232 \cb3 to the Extraction or Re-utilisation of a Substantial part of the\cb1 \uc0\u8232 \cb3 Contents.\
+\pard\pardeftab720\sl600\sa140\partightenfactor0
+
+\f0\b\fs48 \cf2 7.0 Warranties and Disclaimer\
+\pard\pardeftab720\sl320\sa200\partightenfactor0
+
+\f1\b0\fs28 \cf2 7.1 The Database is licensed by the Licensor \'93as is\'94 and without any\cb1 \uc0\u8232 \cb3 warranty of any kind, either express, implied, or arising by statute,\cb1 \uc0\u8232 \cb3 custom, course of dealing, or trade usage. Licensor specifically\cb1 \uc0\u8232 \cb3 disclaims any and all implied warranties or conditions of title,\cb1 \uc0\u8232 \cb3 non-infringement, accuracy or completeness, the presence or absence of\cb1 \uc0\u8232 \cb3 errors, fitness for a particular purpose, merchantability, or otherwise.\cb1 \uc0\u8232 \cb3 Some jurisdictions do not allow the exclusion of implied warranties, so\cb1 \uc0\u8232 \cb3 this exclusion may not apply to You.\
+\pard\pardeftab720\sl600\sa140\partightenfactor0
+
+\f0\b\fs48 \cf2 8.0 Limitation of liability\
+\pard\pardeftab720\sl320\sa200\partightenfactor0
+
+\f1\b0\fs28 \cf2 8.1 Subject to any liability that may not be excluded or limited by law,\cb1 \uc0\u8232 \cb3 the Licensor is not liable for, and expressly excludes, all liability\cb1 \uc0\u8232 \cb3 for loss or damage however and whenever caused to anyone by any use\cb1 \uc0\u8232 \cb3 under this License, whether by You or by anyone else, and whether caused\cb1 \uc0\u8232 \cb3 by any fault on the part of the Licensor or not. This exclusion of\cb1 \uc0\u8232 \cb3 liability includes, but is not limited to, any special, incidental,\cb1 \uc0\u8232 \cb3 consequential, punitive, or exemplary damages such as loss of revenue,\cb1 \uc0\u8232 \cb3 data, anticipated profits, and lost business. This exclusion applies\cb1 \uc0\u8232 \cb3 even if the Licensor has been advised of the possibility of such\cb1 \uc0\u8232 \cb3 damages.\
+8.2 If liability may not be excluded by law, it is limited to actual and\cb1 \uc0\u8232 \cb3 direct financial loss to the extent it is caused by proved negligence on\cb1 \uc0\u8232 \cb3 the part of the Licensor.\
+\pard\pardeftab720\sl600\sa140\partightenfactor0
+
+\f0\b\fs48 \cf2 9.0 Termination of Your rights under this License\
+\pard\pardeftab720\sl320\sa200\partightenfactor0
+
+\f1\b0\fs28 \cf2 9.1 Any breach by You of the terms and conditions of this License\cb1 \uc0\u8232 \cb3 automatically terminates this License with immediate effect and without\cb1 \uc0\u8232 \cb3 notice to You. For the avoidance of doubt, Persons who have received the\cb1 \uc0\u8232 \cb3 Database, the whole or a Substantial part of the Contents, Derivative\cb1 \uc0\u8232 \cb3 Databases, or the Database as part of a Collective Database from You\cb1 \uc0\u8232 \cb3 under this License will not have their licenses terminated provided\cb1 \uc0\u8232 \cb3 their use is in full compliance with this License or a license granted\cb1 \uc0\u8232 \cb3 under Section 4.8 of this License. Sections 1, 2, 7, 8, 9 and 10 will\cb1 \uc0\u8232 \cb3 survive any termination of this License.\
+9.2 If You are not in breach of the terms of this License, the Licensor\cb1 \uc0\u8232 \cb3 will not terminate Your rights under it.\
+9.3 Unless terminated under Section 9.1, this License is granted to You\cb1 \uc0\u8232 \cb3 for the duration of applicable rights in the Database.\
+9.4 Reinstatement of rights. If you cease any breach of the terms and\cb1 \uc0\u8232 \cb3 conditions of this License, then your full rights under this License\cb1 \uc0\u8232 \cb3 will be reinstated:\
+a. Provisionally and subject to permanent termination until the 60th\cb1 \uc0\u8232 \cb3 day after cessation of breach;\
+b. Permanently on the 60th day after cessation of breach unless\cb1 \uc0\u8232 \cb3 otherwise reasonably notified by the Licensor; or\
+c. Permanently if reasonably notified by the Licensor of the\cb1 \uc0\u8232 \cb3 violation, this is the first time You have received notice of\cb1 \uc0\u8232 \cb3 violation of this License from the Licensor, and You cure the\cb1 \uc0\u8232 \cb3 violation prior to 30 days after your receipt of the notice.\
+9.5 Notwithstanding the above, Licensor reserves the right to release\cb1 \uc0\u8232 \cb3 the Database under different license terms or to stop distributing or\cb1 \uc0\u8232 \cb3 making available the Database. Releasing the Database under different\cb1 \uc0\u8232 \cb3 license terms or stopping the distribution of the Database will not\cb1 \uc0\u8232 \cb3 withdraw this License (or any other license that has been, or is\cb1 \uc0\u8232 \cb3 required to be, granted under the terms of this License), and this\cb1 \uc0\u8232 \cb3 License will continue in full force and effect unless terminated as\cb1 \uc0\u8232 \cb3 stated above.\
+\pard\pardeftab720\sl600\sa140\partightenfactor0
+
+\f0\b\fs48 \cf2 10.0 General\
+\pard\pardeftab720\sl320\sa200\partightenfactor0
+
+\f1\b0\fs28 \cf2 10.1 If any provision of this License is held to be invalid or\cb1 \uc0\u8232 \cb3 unenforceable, that must not affect the validity or enforceability of\cb1 \uc0\u8232 \cb3 the remainder of the terms and conditions of this License and each\cb1 \uc0\u8232 \cb3 remaining provision of this License shall be valid and enforced to the\cb1 \uc0\u8232 \cb3 fullest extent permitted by law.\
+10.2 This License is the entire agreement between the parties with\cb1 \uc0\u8232 \cb3 respect to the rights granted here over the Database. It replaces any\cb1 \uc0\u8232 \cb3 earlier understandings, agreements or representations with respect to\cb1 \uc0\u8232 \cb3 the Database.\
+10.3 If You are in breach of the terms of this License, You will not be\cb1 \uc0\u8232 \cb3 entitled to rely on the terms of this License or to complain of any\cb1 \uc0\u8232 \cb3 breach by the Licensor.\
+10.4 Choice of law. This License takes effect in and will be governed by\cb1 \uc0\u8232 \cb3 the laws of the relevant jurisdiction in which the License terms are\cb1 \uc0\u8232 \cb3 sought to be enforced. If the standard suite of rights granted under\cb1 \uc0\u8232 \cb3 applicable copyright law and Database Rights in the relevant\cb1 \uc0\u8232 \cb3 jurisdiction includes additional rights not granted under this License,\cb1 \uc0\u8232 \cb3 these additional rights are granted in this License in order to meet the\cb1 \uc0\u8232 \cb3 terms of this License.\
+}
