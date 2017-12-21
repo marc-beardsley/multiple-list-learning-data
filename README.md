@@ -3,8 +3,8 @@ Open Data: EEG and behavioural data from a multiple wordlist learning task for d
 
 # Authors
 - Marc Beardsley, Pompeu Fabra University, Barcelona, Spain
-- Batuhan Sayis, Pompeu Fabra University, Barcelona, Spain
-- Milica Vujovic, Pompeu Fabra University, Barcelona, Spain
+- Batuhan Sayis, Pompeu Fabra University 
+- Milica Vujovic, Pompeu Fabra University 
 
 Contact marc.beardsley@upf.edu with any comments or questions
 
@@ -20,18 +20,18 @@ In the restudy condition, participants complete a restudy activity after list 1 
 # Behavioural data
 The experimental setup/files can be found at https://zenodo.org/record/1120260#.Wjpva7T82Rs.
 
-The behavioural data (e.g. free recall test answers for list three activity and free recall test answers for the final cumulative test) were collected using PsychoPy and compiled into a summary table. The final study included 46 participants (11 female and 35 male, age: M = 23.8, SD = 6.5).
-- Summary of behavioural data: https://github.com/marc-beardsley/multiple-list-learning-data/blob/master/behavioural-data/Behavioural_data_summary_2017.csv
+The behavioural data (e.g. free recall test answers for list three activity and free recall test answers for the final cumulative test) were collected using PsychoPy and compiled into a summary table. The final study included 46 participants (11 female and 35 male, age: M = 23.76, SD = 6.52).
+- Summary of behavioural data: https://goo.gl/4Jki8H
 
 # EEG data
 The electroencephalogram signals (EEG) were measured with an Emotiv EPOC® device which is an inexpensive EEG-based, non-invasive Brain-Computer Interface (BCI). The headset consists of a wireless amplifier and 16 wet saline electrodes which include 14 EEG channels and 2 reference electrodes. The electrodes are located and labeled according to the international 10-20 system and the locations of the electrodes are: AF3, F7, F3, FC5, T7, P7, O1, O2, P8, T8, FC6, F4, F8 and AF4. For the experiment, all the available electrodes of the Emotiv EPOC headset were used. The generated EEG data was digitized using the embedded 16-bit ADC with 128 Hz sampling frequency per channel. 
 
-Data was recorded from a baseline prior to the showing of list 1 until the end of the list 3 activity. The data files provided are the raw EEG files (without preprocessing). The final study included xxxx participants as issues with the acquisition server resulted in xxxx trials being lost.
-- Timing of experiment: xxxx
+Data was recorded from a baseline prior to the showing of list 1 until the end of the list 3 activity. The data files provided are the raw EEG files (without preprocessing). The final study included 31 participants as issues with the acquisition server and excessive artefacts resulted in 15 trials being unusable.
+- Timing of experiment: https://goo.gl/R9hncq
 
 
 # License
-This multiple learning list EEG and behavioural data is made available under the Open Data Commons Attribution License: http://opendatacommons.org/licenses/by/1.0. - A plain language summary of the license can be found at: https://opendatacommons.org/licenses/by/summary/. For more information see the LICENSE.txt file in this directory.
+This multiple learning list EEG and behavioural data is made available under the Open Data Commons Attribution License: http://opendatacommons.org/licenses/by/1.0. - A plain language summary of the license can be found at: https://opendatacommons.org/licenses/by/summary/. For more information see the LICENSE.md file in this directory.
 
 # References
 Pastötter, B., Schicker, S., Niedernhuber, J., and Bäuml, K.-H. T. (2011). Retrieval during learning facilitates subsequent memory encoding. J. Exp. Psychol. Learn. Mem. Cogn. 37, 287–297. doi: 10.1037/a0021801
