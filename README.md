@@ -1,5 +1,9 @@
+[![DOI](https://zenodo.org/badge/114932156.svg)](https://zenodo.org/badge/latestdoi/114932156)
+
 # Open Data For a Multiple Wordlist Learning Task
 Open Data: EEG and behavioural data from a multiple wordlist learning task for demonstrating the backward and forward effects of testing (testing effects).
+
+A PsychoPy implementation of the multiple wordlist learning that generated the data can be found at: https://zenodo.org/badge/latestdoi/114890430
 
 # Authors
 - Marc Beardsley, Pompeu Fabra University, Barcelona, Spain
@@ -41,7 +45,7 @@ Peirce JW (2009) Generating stimuli for neuroscience using PsychoPy. Front. Neur
 Szpunar, K. K., McDermott, K. B., and Roediger, H. L. III (2008). Testing during study insulates against the buildup of proactive interference. J. Exp. Psychol. Learn. Mem. Cogn. 34, 1392–1399. doi: 10.1037/a0013082
 
 # Citing these materials
-Beardsley, M., Vujovic, M., and Sayis, B. (2017). Open Data For a Multiple Wordlist Learning Task.
+Beardsley, M., Vujovic, M., and Sayis, B. (2017). Open Data For a Multiple Wordlist Learning Task. doi: 10.5281/zenodo.1123478
 
 
 
